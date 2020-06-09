@@ -1,0 +1,44 @@
+{
+  "_from": "papago-translator-j3@0.0.9",
+  "_id": "papago-translator-j3@0.0.9",
+  "_inBundle": false,
+  "_location": "/papago-translator-j3",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "papago-translator-j3@0.0.9",
+    "name": "papago-translator-j3",
+    "escapedName": "papago-translator-j3",
+    "rawSpec": "0.0.8",
+    "saveSpec": null,
+    "fetchSpec": "0.0.8"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "author": {
+    "name": "Hyunil Jang, J3"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "request-promise": "^4.2.2"
+  },
+  "deprecated": false,
+  "description": "Naver Papago Translator module for node.js",
+  "keywords": [
+    "naver",
+    "papago",
+    "translator",
+    "translation",
+    "papago-translator-j3"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "papago-translator-j3",
+  "scripts": {
+    "test": "none"
+  },
+  "version": "0.0.9"
+}
